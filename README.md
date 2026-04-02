@@ -103,6 +103,14 @@ This project can be deployed on AWS EC2 by running both FastAPI and Streamlit se
 
 ## 📸 Screenshots
 
+### Dashboard
+![Dashboard](images/ss1.png)
+
+### Prediction
+![Prediction](images/ss2.png)
+
+### Anomaly Detection
+![Anomaly](images/ss3.png)
 
 
 ---
